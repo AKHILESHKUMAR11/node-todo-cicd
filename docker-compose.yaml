@@ -4,4 +4,4 @@ services:
   web:
     image: abhay10371/node-app:v3
     ports:
-      - "8000:8000"
+      - "8001:8001"
